@@ -54,4 +54,4 @@ void loop() {
   delay(1000);
 }
 ## Circuit Preview
-![Circuit](IMG_5415.jpg)
+![Circuit](IMG_5415.jpeg)
