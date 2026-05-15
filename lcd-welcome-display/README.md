@@ -30,9 +30,9 @@ Hello Santiago
 ```
 ## Preview
 
-![LCD Circuit](images/Picture LCD.jpeg)
+![LCD Circuit](images/PictureLCD.jpeg)
 
-![LCD Working](images/Picture LCD1.jpeg)
+![LCD Working](images/PictureLCD1.jpeg)
 
 ## Preview
 
