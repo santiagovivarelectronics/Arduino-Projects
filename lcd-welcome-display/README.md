@@ -34,6 +34,4 @@ Hello Santiago
 
 ![LCD Working](images/PictureLCD1.jpeg)
 
-## Preview
 
-(Add project images here)
