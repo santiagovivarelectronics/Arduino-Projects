@@ -62,4 +62,6 @@ smart-access-safety-system
 
 ![System Overview](images/system-overview.jpg)
 
-![Warning Mode](images/warning-mode.jpg)
+![Warning Mode](images/system-overview1.jpg)
+
+
